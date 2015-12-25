@@ -1,0 +1,46 @@
+Stückliste exportiert aus C:/Users/ahrens/Documents/eagle/ASAM/ASAM/asam_mit_RFM.sch am 18.12.2015 17:46:37
+
+Part Value           Device               Package      Description                                                 MF       MPN       OC_FARNELL OC_NEWARK
+C1   100nF           C-EU075-032X103      C075-032X103 CAPACITOR, European symbol                                                                         
+C2   470µF (opt.)    CPOL-EUE5-10.5       E5-10,5      POLARIZED CAPACITOR, European symbol                                                               
+C4   100nF           C-EU075-032X103      C075-032X103 CAPACITOR, European symbol                                                                         
+C5   47 µF           CPOL-EUE5-10.5       E5-10,5      POLARIZED CAPACITOR, European symbol                                                               
+C6   47 µF           CPOL-EUE5-10.5       E5-10,5      POLARIZED CAPACITOR, European symbol                                                               
+C7   100nF           C-EU075-032X103      C075-032X103 CAPACITOR, European symbol                                                                         
+C8                   CPOL-EUE5-10.5       E5-10,5      POLARIZED CAPACITOR, European symbol                                                               
+D1   BA296           BA296                P2-15        DIODE                                                                                              
+D2                   SCHOTTKY-DIODEDO35-7 DO35-7       Schottky Diode                                                                                     
+D3   6.2V            ZENER-DIODEC1702-15  C1702-15     Z-Diode                                                                                            
+D4                   SCHOTTKY-DIODEDO35-7 DO35-7       Schottky Diode                                                                                     
+F1                   SH22,5               SH22,5       FUSE HOLDER grid 22,5 mm, OGN0031 8201, Schurter (Buerklin) SCHURTER 0031.8201 1162740    96F8317  
+IC2  TINY24/44/84-PU TINY24/44/84-PU      DIL14                                                                                                           
+IC3  788TV           788TV                TO220V       Positive VOLTAGE REGULATOR                                                                         
+JP1                  PINHD-1X2            1X02         PIN HEADER                                                                                         
+JP2                  PINHD-1X1            1X01         PIN HEADER                                                                                         
+LED2                 LED3MM               LED3MM       LED                                                                                                
+LED3                 LED3MM               LED3MM       LED                                                                                                
+Q1   IRF9530         IRF9530              TO220BV      P-CHANNEL HEXFET POWER-MOS-FET                                                                     
+Q2   IRF9530         IRF9530              TO220BV      P-CHANNEL HEXFET POWER-MOS-FET                                                                     
+Q3   IRF9530         IRF9530              TO220BV      P-CHANNEL HEXFET POWER-MOS-FET                                                                     
+R1   1k              R-EU_0207/10         0207/10      RESISTOR, European symbol                                                                          
+R2   10k             R-EU_0207/10         0207/10      RESISTOR, European symbol                                                                          
+R3   820R            R-EU_0207/10         0207/10      RESISTOR, European symbol                                                                          
+R4   10K             R-EU_0207/12         0207/12      RESISTOR, European symbol                                                                          
+R5   820R            R-EU_0207/10         0207/10      RESISTOR, European symbol                                                                          
+R6   10K             R-EU_0207/12         0207/12      RESISTOR, European symbol                                                                          
+R7   10K             R-EU_0207/12         0207/12      RESISTOR, European symbol                                                                          
+R8   10K             R-EU_0207/10         0207/10      RESISTOR, European symbol                                                                          
+R9   1k              R-EU_0207/10         0207/10      RESISTOR, European symbol                                                                          
+R10  220R            R-EU_0207/10         0207/10      RESISTOR, European symbol                                                                          
+R11  10K             R-EU_0207/12         0207/12      RESISTOR, European symbol                                                                          
+R12  820R            R-EU_0207/10         0207/10      RESISTOR, European symbol                                                                          
+R14  220             R-EU_0207/10         0207/10      RESISTOR, European symbol                                                                          
+SV2                  MA03-2               MA03-2       PIN HEADER                                                                     unknown    unknown  
+T1                   BC546-NPN-TO92-CBE   TO92-CBE     NPN Transistror                                                                                    
+T2                   BC546-NPN-TO92-CBE   TO92-CBE     NPN Transistror                                                                                    
+T3                   BC546-NPN-TO92-CBE   TO92-CBE     NPN Transistror                                                                                    
+U$1  RFM12_SOCKEL    RFM12_SOCKEL         RFM12_SOCKEL                                                                                                    
+X1   MOTOR           MPT5                 5POL254      PHOENIX CONNECTOR                                                              unknown    unknown  
+X2   LOAD            MPT5                 5POL254      PHOENIX CONNECTOR                                                              unknown    unknown  
+X3   SOLAR           MPT5                 5POL254      PHOENIX CONNECTOR                                                              unknown    unknown  
+X4   BATT IN         MPT5                 5POL254      PHOENIX CONNECTOR                                                              unknown    unknown  
