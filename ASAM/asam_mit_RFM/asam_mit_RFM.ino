@@ -13,7 +13,7 @@
 #define DUNKEL 1980       // Helligkeitswert, ab dem das Licht angeschaltet werden soll
 #define HELL 1500
 #define STUNDEN 5         // Leuchtdauer in Stunden
-#define LEUCHTDAUER SEND_DELAY/10*36*STUNDEN/DWN_SAMPLE  // Zeit, die das Licht anbleiben soll
+#define LEUCHTDAUER SEND_DELAY/10*36*STUNDEN  // Zeit, die das Licht anbleiben soll
 
 #define LADEN 10          // Batterie laden
 #define MOTOR 9           // Motor ein
